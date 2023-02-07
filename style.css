@@ -1,0 +1,18 @@
+.bg-opacity-10 {
+    opacity: 0.1!important;
+}
+.bg-opacity-30 {
+    opacity: 0.3!important;
+}
+.bg-opacity-50 {
+    opacity: 0.5!important;
+}
+.bg-opacity-80 {
+    opacity: 0.8!important;
+}
+.spinner-border {
+    border-width: 0.7em;
+    color: black;
+    width: 10rem;
+    height: 10rem;
+}
